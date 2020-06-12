@@ -1,0 +1,38 @@
+/* CSS Document */
+
+
+.panel-container {
+	border: 1px solid #ccc;
+	height: 500px;
+	
+}
+
+.panel-header {
+	margin：10px 20px 10px 20px;
+	font-size: 30px;
+	font-weight: 900;
+	text-align: center;
+}
+.re-title{
+	-moz-transform: rotate(30deg);
+	-webkit-transform: rotate(30deg); 
+	position: absolute;
+	margin-left: 3px;
+	
+}
+.sheng-select {
+	width: 200px;
+	position: absolute;
+	left: 10px;
+}
+
+.shi-select {
+	width: 200px;
+	margin-left: 10px;
+	position: absolute;
+	left: 220px;
+}
+
+.location-div {
+	position: relative;
+}
